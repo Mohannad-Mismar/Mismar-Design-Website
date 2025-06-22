@@ -54,12 +54,13 @@ A responsive freelancing website created for **Mismar Design**, a real design an
 
 ## 📸 Screenshots
 
-![Screenshot 2025-06-22 231146](https://github.com/user-attachments/assets/5c144e34-df66-4850-9534-52d37ff2eafa)
-![Screenshot 2025-06-22 231136](https://github.com/user-attachments/assets/1450a193-762f-42bc-9de7-4500a64449a9)
-![Screenshot 2025-06-22 231046](https://github.com/user-attachments/assets/57d2e18f-93e5-44c4-a38d-4f1a6dd22cfd)
-![Screenshot 2025-06-22 231032](https://github.com/user-attachments/assets/738df1f2-1836-410d-a011-eec403f7ada6)
-![Screenshot 2025-06-22 231017](https://github.com/user-attachments/assets/47b595fc-2a64-4632-aff3-cb16e97908aa)
-![Screenshot 2025-06-22 231207](https://github.com/user-attachments/assets/93e11fd9-4f40-44dd-9ff4-f131857110a3)
+![Screenshot 2025-06-22 231207](https://github.com/user-attachments/assets/4df7a1a6-3fb1-4a78-ae73-cee2b0f5c084)
+![Screenshot 2025-06-22 231146](https://github.com/user-attachments/assets/05cc8bf9-53f5-4ec7-9c26-6116c3c37572)
+![Screenshot 2025-06-22 231136](https://github.com/user-attachments/assets/2ade36ba-4914-498a-8170-d916341ca259)
+![Screenshot 2025-06-22 231046](https://github.com/user-attachments/assets/a6eaa108-90bc-4a1e-9ce2-eb87313b3bd6)
+![Screenshot 2025-06-22 231032](https://github.com/user-attachments/assets/4e8d0093-0f6c-4224-9c6a-71765efa1583)
+![Screenshot 2025-06-22 231017](https://github.com/user-attachments/assets/24d0e394-1af4-487a-88a6-ce7027cc1af0)
+
 
 ## 📜 License
 
