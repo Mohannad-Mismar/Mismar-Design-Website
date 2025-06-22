@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add Service</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav id="navbar">
+    <img src="../images/mismar-logo.png" alt="" class="logo">
+   <ul id="menu-links">
+    <a href="index.php"><li>Home</li></a>
+    <a href="services.php"><li>Services</li></a>
+    <a href="project.php"><li>Projects</li></a>
+<a href="consultations.php"><li>Consultations</li></a>
+      <a href="../logout.php"><li>Logout</li></a>
+
+    
+  </ul>
+    <img src="../images/menu.png" alt="" class="menu-icon" onclick="toggleMenu()">
+  </nav>
+
+  <div class="contact-wrapper">
+    <form action="add_service.php" method="POST" enctype="multipart/form-data">
+      <div class="form-group">
+        <label for="title">Service Title:</label>
+        <input type="text" name="title" id="title" required>
+      </div>
+      <div class="form-group">
+        <label for="description">Service Description:</label>
+        <textarea name="description" id="description" rows="6" required></textarea>
+      </div>
+      <div class="form-group">
+        <label for="image">Upload Image:</label>
+        <input type="file" name="image" id="image" accept="image/*" required>
+      </div>
+      <button type="submit" id="b1">Add Service</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
